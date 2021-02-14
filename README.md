@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет-привет! 👋
 
 <!--
 **vadim-tishenko/vadim-tishenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
